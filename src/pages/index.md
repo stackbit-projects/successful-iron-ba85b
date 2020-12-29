@@ -6,7 +6,7 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Inclusive Early Childhood
-    content: hhhggh
+    content: Educational Resources
     actions:
       - label: Learn More
         url: /features
